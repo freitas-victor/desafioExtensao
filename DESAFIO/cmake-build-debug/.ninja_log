@@ -1,0 +1,4 @@
+# ninja log v5
+50	530	7231426825521312	build.ninja	5dcbcfab19a71b6a
+8	138	7231426829669936	CMakeFiles/DESAFIO.dir/desafio2_exp_54-2023/desafio2_fatorial.c.obj	9855a11bf47f5224
+1	140	7231426829680105	CMakeFiles/DESAFIO.dir/desafio1_exp_54-2023/areaPerimetroCirculo.c.obj	ea3427d1c11309a

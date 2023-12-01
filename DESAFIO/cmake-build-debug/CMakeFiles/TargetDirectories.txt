@@ -1,0 +1,3 @@
+C:/Users/55989/OneDrive/Documentos/UNICESUMAR/PROGRAMA AMPLIAR/DESAFIO/cmake-build-debug/CMakeFiles/DESAFIO.dir
+C:/Users/55989/OneDrive/Documentos/UNICESUMAR/PROGRAMA AMPLIAR/DESAFIO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/55989/OneDrive/Documentos/UNICESUMAR/PROGRAMA AMPLIAR/DESAFIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
